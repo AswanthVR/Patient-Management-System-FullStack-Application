@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "Access-Control-Allow-Origin",
+    "type": "java.lang.String",
+    "description": "A description for 'Access-Control-Allow-Origin'"
+  },
+  {
+    "name": "Access-Control-Allow-Origin",
+    "type": "java.lang.String",
+    "description": "A description for 'Access-Control-Allow-Origin'"
+  }
+]}
